@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521649218 source:/home/eduardo/Documentos/tercer entregable/main.cpp
+	<iostream>
+	"dic.h"
+
+1521650649 /home/eduardo/Documentos/tercer entregable/include/dic.h
+	<iostream>
+

@@ -1,0 +1,21 @@
+if ( s => 2 )
+{
+$sali = 1 + 2 ;
+$s = 1 - 2 ;
+print $t ;
+}
+while ( $r < 5 )
+{
+print $t ;
+print "hola" ;
+$r = 8 ;
+}
+for ( $d = 0 ; $d < 10)
+{
+$k = "hola" ;
+$d = 9 ;
+$f = $d + $ ;
+$b = $d ;
+$m = "hola" ;
+$s = $d ;
+}
